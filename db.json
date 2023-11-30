@@ -88,5 +88,34 @@
       "organisator": "Weareone",
       "img": "https://bocir-prod-bucket.s3.amazonaws.com/medias/UBL5BgYYYQ/image/tomorrowwinter%2020225062836319647_n1632210835190-format1by1.jpg"
     }
+  ],
+  "foodtrucks": [
+    {
+      "id": 1,
+      "title": "TacoBurrito",
+      "description": "Wij zijn een foodtruck met focus op TACO's en BURRITO's. Deze specialiteiten kun je enkel via ons verkrijgen op de weides van het festivalterein!",
+      "location": "Weide 5",
+      "openinghours": "10:00h - 22:00h",
+      "owner": "Mr John Taco",
+      "img": "https://i.pinimg.com/originals/35/d0/5f/35d05f9646edb519bf60c84b73f6fe1d.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Louis' Pizza",
+      "description": "Wij zijn een foodtruck met focus op pizza's. Deze specialiteiten kun je enkel via ons verkrijgen op de weides van het festivalterein!",
+      "location": "Weide 1",
+      "openinghours": "10:00h - 22:00h",
+      "owner": "Louis Pizza",
+      "img": "https://www.houseofweddings.com/files/cache/medium/files/2-0fc14d7c8cbe0cf43cc5f5f75b75e6ee-64356cd56be72.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Burger Pit",
+      "description": "Wij zijn een foodtruck met focus op Burgers. Deze specialiteiten kun je enkel via ons verkrijgen op de weides van het festivalterein!",
+      "location": "Weide 2",
+      "openinghours": "10:00h - 22:00h",
+      "owner": "Good Mood Food",
+      "img": "https://ik.imagekit.io/nuento/gallery/635fc1cd-66a5-475c-ba81-e27631847666_zAsq-CYo3.jpeg"
+    }
   ]
 }
